@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">CitySeek: Raleigh</string>
+    <string name="find">Can you find this art?</string>
+    <string name="quiz">Trivia Quiz!</string>
+    <string name="sub">Submit</string>
+    <string name="congrats">Congratulations, you found it!</string>
+    <string name="getting">You\'re getting</string>
+    <string name="cont">Continue</string>
+
+</resources>
